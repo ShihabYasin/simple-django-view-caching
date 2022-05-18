@@ -1,5 +1,6 @@
 
 <h2 id="django-caching-types">Django Caching Types</h2>
+<p> Check codebase  <a href="https://github.com/ShihabYasin/simple-django-view-caching">here</a></p>
 <p>Django comes with several <a href="https://docs.djangoproject.com/en/3.2/topics/cache/">built-in caching</a> backends, as well as support for a <a href="https://docs.djangoproject.com/en/3.2/topics/cache/#using-a-custom-cache-backend">custom</a> backend.</p>
 <p>The built-in options are:</p>
 <ol>
@@ -112,8 +113,8 @@
 </code></pre>
 
 <h2 id="project-setup">Project Setup</h2>
-<p>Clone down the base project from the <a href="https://github.com/testdrivenio/cache-django-view">cache-django-view</a> repo, and then check out the base branch:</p>
-<pre><span></span><code>$ git clone https://github.com/testdrivenio/cache-django-view.git --branch base --single-branch
+<p>Check code to clone <a href="https://github.com/ShihabYasin/simple-django-view-caching">cache-django-view</a> repo, and then check out the base branch:</p>
+<pre><span></span><code>$ git clone https://github.com/ShihabYasin/simple-django-view-caching.git --branch base --single-branch
 $ <span class="nb">cd</span> cache-django-view
 </code></pre>
 <p>Create (and activate) a virtual environment and install the requirements:</p>
